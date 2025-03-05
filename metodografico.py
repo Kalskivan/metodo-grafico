@@ -311,3 +311,4 @@ resultado_text = tk.StringVar()
 resultado_label = Label(menu, textvariable=resultado_text)
 resultado_label.pack()
 menu.mainloop()
+#hola
